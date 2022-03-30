@@ -1,0 +1,31 @@
+.news-story-page {
+    padding: 1% 15%;
+    /*background: #22344B;*/
+    background: rgba(34, 52, 75,.5);;
+    color: white;
+}
+
+.news-story-container {
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    background: rgba(0,0,0,0.6);
+    padding: 20px;
+    /*padding: 0 1%;*/
+}
+
+.news-image-container {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    /*padding: 0 15%;*/
+}
+
+.news-story-header img {
+    width: 50px;
+    padding-right:  20px;
+}
+
+.social-links img {
+    width: 100%;
+}

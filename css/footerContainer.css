@@ -1,0 +1,40 @@
+
+.footer{
+    border-top: 2px solid #2072b2;
+}
+.footer-container{
+    padding: 2% 0 5% 0;
+    display: flex;
+    justify-content: space-between;
+}
+
+.footer-container .clubs{
+    max-width: 65%;
+}
+.clubs h3{
+    padding: 1% 7% ;
+}
+.clubs ul li a{
+    color:#2072b2;
+    line-height: 25px;
+    text-decoration: none;
+}
+.footer-container .buy-container{
+    max-width: 35%;
+}
+.buy-container div p{
+    line-height: 25px;
+    padding: 1%;
+}
+
+
+.copy-rights{
+    border-top: 3px solid black;
+    width: 100%;
+    color: rgba(255, 255, 255, 0.5);
+    border-color: #2072b2;
+    background-color: #595352;
+}
+.to-top, .copy-link {
+    padding:20px;
+}

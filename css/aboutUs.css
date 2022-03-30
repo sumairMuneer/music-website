@@ -1,0 +1,28 @@
+.about-page {
+    padding: 4% 12%;
+}
+.single-area h1{
+    width: 100%;
+}
+.artist-block {
+    position: relative;
+    float: left;
+    margin: 0 20px 20px 0;
+    padding: 0;
+    border: 1px solid #bbb;
+}
+
+.artist-details {
+    color: #f7f7f7;
+    position: absolute;
+    bottom: 0;
+    width: 100%;
+    padding: 9px 0 10px 0;
+    opacity: .8;
+    background-color: black;
+    -webkit-transition: background-color 0.5s;
+    -moz-transition: background-color 0.5s;
+    -o-transition: background-color 0.5s;
+    transition: background-color 0.5s;
+    text-align: center;
+}
